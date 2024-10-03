@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TestText",
+        "_markerType": "DivIcon",
+        "_html": "　"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.506881,
+          35.001597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "清水支店第１工場",
+        "Code": "11_01",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.506806,
+              35.001571
+            ],
+            [
+              138.505476,
+              34.999804
+            ],
+            [
+              138.506414,
+              34.999339
+            ],
+            [
+              138.50775,
+              35.001105
+            ],
+            [
+              138.506806,
+              35.001571
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "床版工場(F75、S)",
+        "Code": "04_01",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3,
+        "_fillColor": "#ff0000",
+        "_fillOpacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.507344,
+              35.00033
+            ],
+            [
+              138.5064,
+              34.999052
+            ],
+            [
+              138.506754,
+              34.998867
+            ],
+            [
+              138.507714,
+              35.000137
+            ],
+            [
+              138.507344,
+              35.00033
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
